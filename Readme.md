@@ -15,3 +15,9 @@ Para crear el ambiente es necesario utilizar el archivo requeriments.txt junto c
     pip install -r requirements.txt
 ```
 Creado por Sergio Maldonado Rodriguez
+
+## 🔗 Link importantes 
+1. [Link de la data del proyecto](data/fraud_train.csv)
+2. [Notebook del proyecto con el procedimiento detallado](EDA_y_Pipeline.ipynb)
+2. [PDF presentación del proyecto y resultados](Presentacion_Modelo_Scorecard.pdf)
+4. [Link al API y su documentacion](backend)
