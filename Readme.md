@@ -1,7 +1,5 @@
 # **Scorecard de polizas y deteccion de fraude** 💸
 
-![banner_proyecto](Figures/card_banner.jpg)
-
 ## Contexto 
 
 Una aseguradora ha recopilado información categórica sobre sus clientes y pólizas. Cada fila representa un caso individual, y FraudFound_P indica si el caso fue fraudulento (fraude = 1) o no (fraude = 0). El evento de fraude es de baja frecuencia.
